@@ -1,0 +1,14 @@
+==============================
+Idioma do texto: en
+Idioma da tradução: pt
+Mensagem: Trying it
+Tradução: "Tentando"
+==============================
+
+==============================
+Idioma do texto: en
+Idioma da tradução: pt
+Mensagem: Nice, it works
+Tradução: Bom funciona
+==============================
+
